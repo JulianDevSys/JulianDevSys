@@ -9,7 +9,7 @@
 I am a Systems Engineer with hands‑on experience in **backend and full‑stack development**, specialized in **NestJS, Node.js, TypeScript, PostgreSQL, and AWS**.  
 My focus is on building **scalable backends**, applying **clean architecture principles**, and ensuring **best practices** in CI/CD and testing.  
 
-- 💼 Professional experience in **Subbi**, **LocosDomicilios**, and **Gym Management System**.  
+- 💼 Professional experience in companies such as **Subbi** and **LocosDomicilios** (projects are private).  
 - 🚀 Personal flagship project: **Task Management Platform** (JWT, RBAC, CRUDs, Swagger, CI/CD).  
 - 🔧 Passionate about backend modular design, testing, and DevOps workflows.  
 
@@ -22,16 +22,11 @@ My focus is on building **scalable backends**, applying **clean architecture pri
   - CI/CD with GitHub Actions, Dockerized PostgreSQL  
   - [Repository Link](https://github.com/tuusuario/task-platform)
 
-- **Subbi** — SaaS e‑commerce platform  
-  - Frontend with React + TypeScript  
-  - Backend participation: CRUDs, QueryBuilder, PostgreSQL  
-  - [Repository Link](https://github.com/tuusuario/subbi)
-
-- **LocosDomicilios** — Real‑time delivery system  
-  - APIs with NestJS + PostgreSQL  
-  - WebSockets for live tracking  
-  - AWS deployment + Google Maps integration  
-  - [Repository Link](https://github.com/tuusuario/locos-domicilios)
+- **Gym Management System** — Academic project  
+  - NestJS + PostgreSQL  
+  - Authentication and role management  
+  - RESTful APIs for memberships and schedules  
+  - [Repository Link](https://github.com/tuusuario/gym-management)
 
 ---
 
@@ -43,7 +38,7 @@ My focus is on building **scalable backends**, applying **clean architecture pri
 
 ## 🛠️ Tech Stack
 **Backend:** Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis  
-**Frontend:** React, Angular, Bootstrap, HTML, CSS  
+**Frontend:** React, Bootstrap, HTML, CSS  
 **DevOps:** Git, GitHub Actions, Docker, AWS Cognito  
 **Testing:** Jest, Supertest  
 
@@ -57,8 +52,8 @@ My focus is on building **scalable backends**, applying **clean architecture pri
 ---
 
 ## 📫 Contact
-- [LinkedIn](https://linkedin.com/in/tuusuario)  
-- [Email](mailto:tuemail@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/julian-castro-henao-b01671299)  
+- [Email](mailto:jucastrohenao@gmail.com)  
 - [Portfolio](https://tuportafolio.com)  
 
 ---
