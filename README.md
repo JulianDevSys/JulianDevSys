@@ -19,14 +19,11 @@ My focus is on building **scalable backends**, applying **clean architecture pri
 - **Task Management Platform** — Backend inspired by Jira  
   - CRUDs, filters, DTOs, Swagger/OpenAPI  
   - Authentication with JWT & RBAC  
-  - CI/CD with GitHub Actions, Dockerized PostgreSQL  
-  - [Repository Link](https://github.com/tuusuario/task-platform)
+  - CI with GitHub Actions, Dockerized PostgreSQL  
 
-- **Gym Management System** — Academic project  
-  - NestJS + PostgreSQL  
-  - Authentication and role management  
-  - RESTful APIs for memberships and schedules  
-  - [Repository Link](https://github.com/tuusuario/gym-management)
+
+- **SaaS Multi-tenant Gym Management Platform | NestJS, PostgreSQL, RBAC, White-label**  
+ B2B SaaS for gyms with tenant isolation by gymId, 4-level RBAC (Super Admin > Gym Admin > Trainer > User), JWT + bcrypt auth, white-label per gym and membership management. Built with NestJS + PostgreSQL + TypeORM.
 
 ---
 
