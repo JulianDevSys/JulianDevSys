@@ -45,21 +45,6 @@ My expertise focuses on **NestJS, Node.js, TypeScript, PostgreSQL, AWS, Docker, 
 
 ---
 
-### 📌 GymSaaS
-**Multi-tenant Gym Management Platform**
-
-**Tech Stack:** NestJS, PostgreSQL, React, Material UI
-
-- Multi-tenant architecture with tenant isolation by gymId
-- 4-level Role-Based Access Control (RBAC)
-- JWT Authentication
-- Membership Management
-- Workout and Class Management
-- White-label customization per gym
-- Responsive dashboard
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -121,6 +106,17 @@ Logistics and delivery platform connecting businesses, customers, and delivery d
 - Developed administrative dashboards and operational modules.
 - Participated in AWS deployments and automated testing.
 
+### Full-Stack Software Engineer | GymSaaS (Freelance)
+
+Multi-tenant SaaS platform for gym management.
+
+- Designed and implemented a multi-tenant architecture with tenant isolation using gymId.
+- Developed a 4-level Role-Based Access Control (RBAC) system.
+- Implemented authentication and authorization with JWT and bcrypt.
+- Modeled entities for gyms, memberships, trainers, workouts, schedules, and users.
+- Developed white-label customization per gym.
+- Built responsive interfaces with React, TypeScript, and Material UI.
+- Developed backend services with NestJS, PostgreSQL, and TypeORM.
 ---
 
 ## 🎓 Education & Certifications
